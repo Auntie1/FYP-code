@@ -1,0 +1,13 @@
+# Custom Dictionary Words
+Analyser
+customise
+excemption
+granconsent
+jsessionid
+levelname
+phpsessid
+punkt
+rejectcookies
+stopwords
+stricexcep
+testaurl
